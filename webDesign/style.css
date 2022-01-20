@@ -1,0 +1,19 @@
+button:hover{
+    background-color:chartreuse
+}
+.everything{
+    margin: 0 auto;
+    max-width: 48rem;
+    width: 90%;
+    
+    
+      
+}
+#forms{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 25px;
+}
+body{
+    background-color: wheat;
+}
